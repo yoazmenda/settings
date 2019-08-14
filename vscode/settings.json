@@ -1,0 +1,12 @@
+// global vscode settings.json file
+
+{
+    "window.zoomLevel": 1,
+    "explorer.confirmDelete": false,
+    "workbench.iconTheme": "vs-minimal",
+    "files.autoSave": "afterDelay",
+    "extensions.ignoreRecommendations": true,
+    "git.autofetch": true,
+    "window.title": "${rootName}",
+    "explorer.openEditors.visible": 0
+}
