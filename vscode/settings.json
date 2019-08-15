@@ -15,7 +15,10 @@
     "editor.find.autoFindInSelection": true,
     "editor.find.seedSearchStringFromSelection": false,
     "workbench.list.multiSelectModifier": "alt",
-    "gitlens.blame.format": "${author},·${agoOrDate}",
+    "gitlens.blame.format": "${author} · ${date}\"",
+    "search.location": "panel",
+    "gitlens.blame.dateFormat": "DD/MM/YYYY",
     "gitlens.blame.compact": false,
-    "search.location": "panel"
+    "gitlens.blame.avatars": false,
+    "gitlens.blame.toggleMode": "window"
 }
