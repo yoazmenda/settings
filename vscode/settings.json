@@ -1,13 +1,11 @@
-// global vscode settings.json file
-
 {
-    "window.zoomLevel": 1,
+    "window.zoomLevel": 0,
     "explorer.confirmDelete": false,
     "workbench.iconTheme": "vs-minimal",
     "files.autoSave": "afterDelay",
     "extensions.ignoreRecommendations": true,
     "git.autofetch": true,
-    "window.title": "${rootName}",
+    "window.title": "${rootPath}",
     "explorer.openEditors.visible": 0,
     "files.autoGuessEncoding": true,
     "workbench.tree.indent": 20,
@@ -18,5 +16,6 @@
     "editor.find.seedSearchStringFromSelection": false,
     "workbench.list.multiSelectModifier": "alt",
     "gitlens.blame.format": "${author},·${agoOrDate}",
-    "gitlens.blame.compact": false
+    "gitlens.blame.compact": false,
+    "search.location": "panel"
 }
