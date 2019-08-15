@@ -8,5 +8,15 @@
     "extensions.ignoreRecommendations": true,
     "git.autofetch": true,
     "window.title": "${rootName}",
-    "explorer.openEditors.visible": 0
+    "explorer.openEditors.visible": 0,
+    "files.autoGuessEncoding": true,
+    "workbench.tree.indent": 20,
+    "window.restoreWindows": "all",
+    "window.openFilesInNewWindow": "on",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.find.autoFindInSelection": true,
+    "editor.find.seedSearchStringFromSelection": false,
+    "workbench.list.multiSelectModifier": "alt",
+    "gitlens.blame.format": "${author},·${agoOrDate}",
+    "gitlens.blame.compact": false
 }
