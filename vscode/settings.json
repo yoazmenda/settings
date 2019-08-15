@@ -20,5 +20,6 @@
     "gitlens.blame.dateFormat": "DD/MM/YYYY",
     "gitlens.blame.compact": false,
     "gitlens.blame.avatars": false,
-    "gitlens.blame.toggleMode": "window"
+    "gitlens.blame.toggleMode": "window",
+    "gitlens.currentLine.enabled": false
 }
